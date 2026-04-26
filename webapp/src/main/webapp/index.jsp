@@ -1,12 +1,16 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome!! Saidemy DevOps Student Registration Form!!!</h1>
-    <p>Please fill in this form for registration!!!</p>
+    <h1>Welcome!! Saidemy DevOps Student Registration Form!</h1>
+    <p>Please fill in this form for registration!</p>
     <hr>
     <br>  
 
     <label for="Name"><b>name</b></label>
     <input type="text" placeholder="Enter name" name="name" id="name" required>
+    <br>
+
+     <label for="inName"><b>name</b></label>
+    <input type="text" placeholder="Enter inname" name="inname" id="inname" required>
     <br>
 
     <label for="email"><b>Email</b></label>
